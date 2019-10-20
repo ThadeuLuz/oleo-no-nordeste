@@ -1,0 +1,24 @@
+{
+  "name": "oleo-nordeste",
+  "version": "1.0.0",
+  "description": "Site com detalhes sobre a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThadeuLuz/oleo-nordeste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThadeuLuz/oleo-nordeste/issues"
+  },
+  "homepage": "https://github.com/ThadeuLuz/oleo-nordeste#readme",
+  "devDependencies": {
+    "csv-parse": "^4.6.3",
+    "fs-extra": "^8.1.0"
+  }
+}
