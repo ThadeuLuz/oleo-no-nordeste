@@ -1,11 +1,13 @@
 import React from 'react'
+import { ThemeProvider } from 'theme-ui'
+
+import Home from './pages/Home/index'
+import theme from './services/theme'
 
 const App = () => (
-  <div>
-    <p className="App-intro">
-      To get started, edit <code>src/App.js</code> and save to reload.
-    </p>
-  </div>
+  <ThemeProvider theme={theme}>
+    <Home />
+  </ThemeProvider>
 )
 
 export default App
