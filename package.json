@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "processdata": "node tools/csvToJson.js",
     "lint": "eslint --ext .jsx,.js ./src",
-    "start": "parcel ./src/index.html --open"
+    "start": "parcel ./src/index.html --open",
+    "build": "rm -rf ./docs && parcel build src/index.html --public-url . --out-dir docs"
   },
   "repository": {
     "type": "git",
