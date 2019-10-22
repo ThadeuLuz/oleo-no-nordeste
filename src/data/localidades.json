@@ -2,2001 +2,2001 @@
   {
     "nome": "Praia de Japaratinga",
     "municipio": "Japaratinga",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 5' 36.71\" S",
-    "long": "35° 15' 29.58\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -9.093530555555557,
+    "long": -35.25821666666667
   },
   {
     "nome": "Praia do Carro Quebrado",
     "municipio": "Passo de Camaragibe",
-    "dataAvist": "2019-09-18T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 20' 30.08\" S",
-    "long": "35° 26' 55.32\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-14T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-09-18T00:00:00.000Z",
+    "lat": -9.34168888888889,
+    "long": -35.448699999999995
   },
   {
     "nome": "Porto de Galinhas",
     "municipio": "Ipojuca",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 30' 26.10\" S",
-    "long": "35° 0' 0.659\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -8.50725,
+    "long": -35.00018305555555
   },
   {
     "nome": "Ilha Cocaia",
     "municipio": "Cabo de Santo Agostinho",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 21' 34.57\" S",
-    "long": "34° 57' 29.98\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": null,
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -8.359602777777777,
+    "long": -34.95832777777778
   },
   {
     "nome": "Praia do Gunga",
     "municipio": "Roteiro",
-    "dataAvist": "2019-09-22T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 54' 11.14\" S",
-    "long": "35° 56' 19.57\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-16T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-09-22T00:00:00.000Z",
+    "lat": -9.903094444444445,
+    "long": -35.93876944444444
   },
   {
     "nome": "Travosa",
     "municipio": "Santo Amaro do Maranhão",
-    "dataAvist": "2019-09-25T00:00:00.000Z",
     "estado": "MA",
-    "lat": "2° 24' 26.77\" S",
-    "long": "43° 8' 5.709\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-09-28T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-09-25T00:00:00.000Z",
+    "lat": -2.407436111111111,
+    "long": -43.13491916666666
   },
   {
     "nome": "Atalaia Nova",
     "municipio": "Barra dos Coqueiros",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "SE",
-    "lat": "10° 57' 7.999\" S",
-    "long": "37° 1' 45.99\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -10.952221944444444,
+    "long": -37.02944166666666
   },
   {
     "nome": "Sítio do Conde",
     "municipio": "Conde",
-    "dataAvist": "2019-10-04T00:00:00.000Z",
     "estado": "BA",
-    "lat": "11° 51' 10.63\" S",
-    "long": "37° 33' 50.37\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-13T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-04T00:00:00.000Z",
+    "lat": -11.852952777777777,
+    "long": -37.563991666666666
   },
   {
     "nome": "Jandaíra",
     "municipio": "Jandaíra",
-    "dataAvist": "2019-10-04T00:00:00.000Z",
     "estado": "BA",
-    "lat": "11° 31' 42.78\" S",
-    "long": "37° 24' 5.665\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-05T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-04T00:00:00.000Z",
+    "lat": -11.528550000000001,
+    "long": -37.40157361111111
   },
   {
     "nome": "Lagoa do Pau",
     "municipio": "Coruripe",
-    "dataAvist": "2019-09-27T00:00:00.000Z",
     "estado": "AL",
-    "lat": "10° 7' 47.04\" S",
-    "long": "36° 6' 36.04\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-07T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-09-27T00:00:00.000Z",
+    "lat": -10.129733333333334,
+    "long": -36.11001111111111
   },
   {
     "nome": "Mamucabo",
     "municipio": "Esplanada",
-    "dataAvist": "2019-10-07T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 9' 46.82\" S",
-    "long": "37° 43' 27.08\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-08T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-07T00:00:00.000Z",
+    "lat": -12.163005555555555,
+    "long": -37.72418888888889
   },
   {
     "nome": "Santo Antônio",
     "municipio": "Mata de São João",
-    "dataAvist": "2019-10-01T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 27' 34.92\" S",
-    "long": "37° 55' 56.26\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-01T00:00:00.000Z",
+    "lat": -12.4597,
+    "long": -37.932294444444445
   },
   {
     "nome": "Porto de Sauípe",
     "municipio": "Entre Rios",
-    "dataAvist": "2019-10-09T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 23' 32.26\" S",
-    "long": "37° 52' 53.72\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-14T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-09T00:00:00.000Z",
+    "lat": -12.392294444444444,
+    "long": -37.88158888888889
   },
   {
     "nome": "Mangue",
     "municipio": "Estância",
-    "dataAvist": "2019-10-12T00:00:00.000Z",
     "estado": "SE",
-    "lat": "11° 6' 45.99\" S",
-    "long": "37° 10' 1.629\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-12T00:00:00.000Z",
+    "lat": -11.112775,
+    "long": -37.167119166666666
   },
   {
     "nome": "Barra do Santo Antonio",
     "municipio": "Barra do Santo Antonio",
-    "dataAvist": "2019-10-13T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 25' 52.88\" S",
-    "long": "35° 30' 31.53\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-13T00:00:00.000Z",
+    "lat": -9.431355555555555,
+    "long": -35.50875833333333
   },
   {
     "nome": "Ilha da Croa",
     "municipio": "Barra do Santo Antonio",
-    "dataAvist": "2019-10-13T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 22' 55.57\" S",
-    "long": "35° 29' 28.36\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-13T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-13T00:00:00.000Z",
+    "lat": -9.382102777777778,
+    "long": -35.49121111111111
   },
   {
     "nome": "Praia de Japaratinga",
     "municipio": "Japaratinga",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 4' 56.00\" S",
-    "long": "35° 14' 54.65\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -9.082222222222223,
+    "long": -35.24851388888889
   },
   {
     "nome": "Praia de Japaratinga",
     "municipio": "Japaratinga",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 4' 5.685\" S",
-    "long": "35° 14' 13.10\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -9.068245833333332,
+    "long": -35.23697222222222
   },
   {
     "nome": "Barra Grande",
     "municipio": "Maragogi",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "AL",
-    "lat": "8° 54' 59.00\" S",
-    "long": "35° 9' 9.770\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -8.91638888888889,
+    "long": -35.15271388888889
   },
   {
     "nome": "Pedra do Sal",
     "municipio": "Salvador",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 57' 8.521\" S",
-    "long": "38° 20' 46.58\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -12.952366944444444,
+    "long": -38.346272222222225
   },
   {
     "nome": "Ponta das Ilhotas",
     "municipio": "Tamandaré",
-    "dataAvist": "2019-10-18T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 47' 10.92\" S",
-    "long": "35° 6' 13.58\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-18T00:00:00.000Z",
+    "lat": -8.786366666666666,
+    "long": -35.103772222222226
   },
   {
     "nome": "Ilha de Santo Aleixo",
     "municipio": "Sirinhaém",
-    "dataAvist": "2019-10-19T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 36' 44.49\" S",
-    "long": "35° 1' 27.34\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": null,
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-19T00:00:00.000Z",
+    "lat": -8.612358333333333,
+    "long": -35.02426111111111
   },
   {
     "nome": "Ponta do Mangue",
     "municipio": "Maragogi",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "AL",
-    "lat": "8° 57' 47.14\" S",
-    "long": "35° 10' 29.91\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": null,
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -8.963094444444444,
+    "long": -35.174974999999996
   },
   {
     "nome": "Carneiros",
     "municipio": "Tamandaré",
-    "dataAvist": "2019-09-03T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 42' 11.83\" S",
-    "long": "35° 4' 46.89\" W",
+    "status": "Oleada - Manchas",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Manchas"
+    "dataAvist": "2019-09-03T00:00:00.000Z",
+    "lat": -8.70328611111111,
+    "long": -35.07969166666667
   },
   {
     "nome": "Praia do Paiva",
     "municipio": "Cabo de Santo Agostinho",
-    "dataAvist": "2019-09-04T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 15' 36.16\" S",
-    "long": "34° 56' 41.26\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-04T00:00:00.000Z",
+    "lat": -8.260044444444445,
+    "long": -34.94479444444444
   },
   {
     "nome": "Praia de Dell Chifre",
     "municipio": "Olinda",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 1' 36.74\" S",
-    "long": "34° 51' 30.98\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -8.026872222222224,
+    "long": -34.858605555555556
   },
   {
     "nome": "Praia de Gamboa",
     "municipio": "Ipojuca",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 28' 31.00\" S",
-    "long": "34° 59' 41.93\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -8.475277777777778,
+    "long": -34.99498055555556
   },
   {
     "nome": "Candeias",
     "municipio": "Jaboatão dos Guararapes",
-    "dataAvist": "2019-09-03T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 11' 46.37\" S",
-    "long": "34° 55' 7.219\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-03T00:00:00.000Z",
+    "lat": -8.19621388888889,
+    "long": -34.91867194444444
   },
   {
     "nome": "Praia da Prainha",
     "municipio": "Aquiraz",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "CE",
-    "lat": "3° 54' 7.249\" S",
-    "long": "38° 20' 41.79\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-09T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -3.9020136111111112,
+    "long": -38.34494166666667
   },
   {
     "nome": "Maracajaú",
     "municipio": "Maxaranguape",
-    "dataAvist": "2019-09-17T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 25' 36.72\" S",
-    "long": "35° 17' 33.51\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-17T00:00:00.000Z",
+    "lat": -5.426866666666667,
+    "long": -35.29264166666667
   },
   {
     "nome": "Pajuçara/Ponta Verde",
     "municipio": "Maceió",
-    "dataAvist": "2019-09-15T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 39' 51.55\" S",
-    "long": "35° 42' 26.60\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-09-15T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-15T00:00:00.000Z",
+    "lat": -9.664319444444445,
+    "long": -35.70738888888889
   },
   {
     "nome": "Conceição",
     "municipio": "Paulista",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "PE",
-    "lat": "7° 52' 43.84\" S",
-    "long": "34° 49' 43.74\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -7.878844444444445,
+    "long": -34.82881666666667
   },
   {
     "nome": "Praia de Tambaba",
     "municipio": "Conde",
-    "dataAvist": "2019-08-30T00:00:00.000Z",
     "estado": "PB",
-    "lat": "7° 21' 55.89\" S",
-    "long": "34° 47' 51.84\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-08-30T00:00:00.000Z",
+    "lat": -7.365525,
+    "long": -34.79773333333333
   },
   {
     "nome": "Piedade",
     "municipio": "Jaboatão dos Guararapes",
-    "dataAvist": "2019-09-03T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 10' 51.69\" S",
-    "long": "34° 54' 59.59\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-03T00:00:00.000Z",
+    "lat": -8.181025,
+    "long": -34.916552777777774
   },
   {
     "nome": "Praia do Forte Orange",
     "municipio": "Ilha de Itamaracá",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "PE",
-    "lat": "7° 48' 37.24\" S",
-    "long": "34° 50' 17.55\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -7.8103444444444445,
+    "long": -34.838208333333334
   },
   {
     "nome": "Barra de São Miguel",
     "municipio": "Barra de São Miguel",
-    "dataAvist": "2019-09-19T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 49' 32.33\" S",
-    "long": "35° 52' 45.35\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-19T00:00:00.000Z",
+    "lat": -9.825647222222223,
+    "long": -35.879263888888886
   },
   {
     "nome": "Praia de Nossa Senhora do Ó",
     "municipio": "Ipojuca",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 26' 45.93\" S",
-    "long": "34° 58' 59.57\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -8.446091666666668,
+    "long": -34.98321388888889
   },
   {
     "nome": "Maracajaú",
     "municipio": "Maxaranguape",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 24' 38.34\" S",
-    "long": "35° 18' 34.79\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -5.41065,
+    "long": -35.309663888888885
   },
   {
     "nome": "Praia do Francês",
     "municipio": "Marechal Deodoro",
-    "dataAvist": "2019-09-18T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 46' 11.18\" S",
-    "long": "35° 50' 20.89\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-18T00:00:00.000Z",
+    "lat": -9.769772222222223,
+    "long": -35.83913611111112
   },
   {
     "nome": "Redinha",
     "municipio": "Natal",
-    "dataAvist": "2019-09-20T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 45' 4.360\" S",
-    "long": "35° 12' 8.560\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-20T00:00:00.000Z",
+    "lat": -5.751211111111111,
+    "long": -35.202377777777784
   },
   {
     "nome": "Santa Rita",
     "municipio": "Extremoz",
-    "dataAvist": "2019-09-20T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 42' 7.570\" S",
-    "long": "35° 11' 36.85\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-20T00:00:00.000Z",
+    "lat": -5.702102777777778,
+    "long": -35.19356944444444
   },
   {
     "nome": "Jenipabu",
     "municipio": "Extremoz",
-    "dataAvist": "2019-09-20T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 41' 32.37\" S",
-    "long": "35° 12' 21.35\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-20T00:00:00.000Z",
+    "lat": -5.692325,
+    "long": -35.20593055555556
   },
   {
     "nome": "Barra de Santo Antônio",
     "municipio": "Barra de Santo Antônio",
-    "dataAvist": "2019-09-22T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 20' 53.00\" S",
-    "long": "35° 27' 52.00\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-13T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-22T00:00:00.000Z",
+    "lat": -9.348055555555556,
+    "long": -35.464444444444446
   },
   {
     "nome": "Lot. Encontro do Mar",
     "municipio": "Marechal Deodoro",
-    "dataAvist": "2019-09-21T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 47' 20.25\" S",
-    "long": "35° 51' 22.13\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-21T00:00:00.000Z",
+    "lat": -9.788958333333333,
+    "long": -35.856147222222226
   },
   {
     "nome": "Paripueira",
     "municipio": "Paripueira",
-    "dataAvist": "2019-09-22T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 27' 31.99\" S",
-    "long": "35° 32' 13.99\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-22T00:00:00.000Z",
+    "lat": -9.458886111111111,
+    "long": -35.537219444444446
   },
   {
     "nome": "Praia do Gunga",
     "municipio": "Roteiro",
-    "dataAvist": "2019-09-22T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 52' 5.250\" S",
-    "long": "35° 54' 20.78\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-22T00:00:00.000Z",
+    "lat": -9.868125000000001,
+    "long": -35.90577222222222
   },
   {
     "nome": "Ponta da Ilha Verde",
     "municipio": "Nísia Floresta",
-    "dataAvist": "2019-09-12T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 0' 25.43\" S",
-    "long": "35° 6' 24.65\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-12T00:00:00.000Z",
+    "lat": -6.007063888888889,
+    "long": -35.10684722222222
   },
   {
     "nome": "Foz do rio Catu",
     "municipio": "Canguaretama",
-    "dataAvist": "2019-09-12T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 17' 12.54\" S",
-    "long": "35° 2' 5.949\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-12T00:00:00.000Z",
+    "lat": -6.286816666666667,
+    "long": -35.03498583333333
   },
   {
     "nome": "Paracuru",
     "municipio": "Paracuru",
-    "dataAvist": "2019-09-23T00:00:00.000Z",
     "estado": "CE",
-    "lat": "3° 24' 13.63\" S",
-    "long": "39° 1' 5.819\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-23T00:00:00.000Z",
+    "lat": -3.403786111111111,
+    "long": -39.01828305555556
   },
   {
     "nome": "Praia de Alagamar",
     "municipio": "Natal",
-    "dataAvist": "2019-09-24T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 53' 26.34\" S",
-    "long": "35° 9' 14.30\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-09-24T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-24T00:00:00.000Z",
+    "lat": -5.89065,
+    "long": -35.15397222222222
   },
   {
     "nome": "Praia de Jatobá",
     "municipio": "Barra dos Coqueiros",
-    "dataAvist": "2019-09-24T00:00:00.000Z",
     "estado": "SE",
-    "lat": "10° 48' 15.50\" S",
-    "long": "36° 54' 40.87\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-24T00:00:00.000Z",
+    "lat": -10.804305555555556,
+    "long": -36.91135277777778
   },
   {
     "nome": "Barra dos Coqueiros",
     "municipio": "Barra dos Coqueiros",
-    "dataAvist": "2019-09-24T00:00:00.000Z",
     "estado": "SE",
-    "lat": "10° 56' 22.07\" S",
-    "long": "37° 1' 15.08\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-24T00:00:00.000Z",
+    "lat": -10.93946388888889,
+    "long": -37.020855555555556
   },
   {
     "nome": "Praia do Pirambu",
     "municipio": "Pirambu",
-    "dataAvist": "2019-09-24T00:00:00.000Z",
     "estado": "SE",
-    "lat": "10° 44' 10.87\" S",
-    "long": "36° 50' 46.04\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-24T00:00:00.000Z",
+    "lat": -10.736352777777777,
+    "long": -36.84612222222223
   },
   {
     "nome": "Morro Branco",
     "municipio": "Beberibe",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "CE",
-    "lat": "4° 9' 16.00\" S",
-    "long": "38° 6' 32.00\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-08T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -4.154444444444445,
+    "long": -38.10888888888889
   },
   {
     "nome": "Pontal do Coruripe",
     "municipio": "Coruripe",
-    "dataAvist": "2019-09-27T00:00:00.000Z",
     "estado": "AL",
-    "lat": "10° 9' 38.62\" S",
-    "long": "36° 8' 7.093\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-13T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-27T00:00:00.000Z",
+    "lat": -10.160727777777778,
+    "long": -36.13530361111111
   },
   {
     "nome": "Sabiaguaba",
     "municipio": "Fortaleza",
-    "dataAvist": "2019-09-26T00:00:00.000Z",
     "estado": "CE",
-    "lat": "3° 48' 0.300\" S",
-    "long": "38° 25' 2.488\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-26T00:00:00.000Z",
+    "lat": -3.8000833333333333,
+    "long": -38.417357777777774
   },
   {
     "nome": "Piaçabuçu",
     "municipio": "Piaçabuçu",
-    "dataAvist": "2019-10-01T00:00:00.000Z",
     "estado": "AL",
-    "lat": "10° 26' 16.94\" S",
-    "long": "36° 21' 14.31\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-01T00:00:00.000Z",
+    "lat": -10.438038888888888,
+    "long": -36.353975
   },
   {
     "nome": "Lagoinha",
     "municipio": "Paraipaba",
-    "dataAvist": "2019-10-01T00:00:00.000Z",
     "estado": "CE",
-    "lat": "3° 20' 49.00\" S",
-    "long": "39° 6' 48.00\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-01T00:00:00.000Z",
+    "lat": -3.3469444444444445,
+    "long": -39.11333333333334
   },
   {
     "nome": "Luís Correia",
     "municipio": "Luís Correia",
-    "dataAvist": "2019-09-30T00:00:00.000Z",
     "estado": "PI",
-    "lat": "2° 53' 58.58\" S",
-    "long": "41° 36' 29.75\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-09-30T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-30T00:00:00.000Z",
+    "lat": -2.8996055555555555,
+    "long": -41.60826388888889
   },
   {
     "nome": "Mosqueiro",
     "municipio": "Aracajú",
-    "dataAvist": "2019-10-02T00:00:00.000Z",
     "estado": "SE",
-    "lat": "11° 4' 27.77\" S",
-    "long": "37° 6' 26.06\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-02T00:00:00.000Z",
+    "lat": -11.074380555555555,
+    "long": -37.107238888888894
   },
   {
     "nome": "Ipioca",
     "municipio": "Maceió",
-    "dataAvist": "2019-09-17T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 32' 52.36\" S",
-    "long": "35° 37' 3.178\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-03T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-17T00:00:00.000Z",
+    "lat": -9.547877777777778,
+    "long": -35.61754944444444
   },
   {
     "nome": "Atalaia",
     "municipio": "Aracajú",
-    "dataAvist": "2019-10-02T00:00:00.000Z",
     "estado": "SE",
-    "lat": "10° 58' 50.09\" S",
-    "long": "37° 2' 10.75\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-02T00:00:00.000Z",
+    "lat": -10.980580555555555,
+    "long": -37.036319444444445
   },
   {
     "nome": "Abais",
     "municipio": "Estância",
-    "dataAvist": "2019-09-03T00:00:00.000Z",
     "estado": "SE",
-    "lat": "11° 20' 27.23\" S",
-    "long": "37° 17' 22.98\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-05T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-03T00:00:00.000Z",
+    "lat": -11.340897222222223,
+    "long": -37.28971666666666
   },
   {
     "nome": "Porto",
     "municipio": "Barra dos Coqueiros",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "SE",
-    "lat": "10° 50' 42.99\" S",
-    "long": "36° 56' 52.99\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -10.845275,
+    "long": -36.948052777777775
   },
   {
     "nome": "Mangue Seco",
     "municipio": "Jandaíra",
-    "dataAvist": "2019-10-04T00:00:00.000Z",
     "estado": "BA",
-    "lat": "11° 27' 46.80\" S",
-    "long": "37° 21' 9.195\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-04T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-04T00:00:00.000Z",
+    "lat": -11.463,
+    "long": -37.35255416666667
   },
   {
     "nome": "Caueira",
     "municipio": "Estância",
-    "dataAvist": "2019-10-03T00:00:00.000Z",
     "estado": "SE",
-    "lat": "11° 13' 17.70\" S",
-    "long": "37° 12' 26.78\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-03T00:00:00.000Z",
+    "lat": -11.221583333333333,
+    "long": -37.207438888888895
   },
   {
     "nome": "Itariri",
     "municipio": "Conde",
-    "dataAvist": "2019-10-05T00:00:00.000Z",
     "estado": "BA",
-    "lat": "11° 57' 58.76\" S",
-    "long": "37° 37' 12.84\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-05T00:00:00.000Z",
+    "lat": -11.966322222222221,
+    "long": -37.62023333333333
   },
   {
     "nome": "Jandaíra",
     "municipio": "Jandaíra",
-    "dataAvist": "2019-10-05T00:00:00.000Z",
     "estado": "BA",
-    "lat": "11° 37' 2.636\" S",
-    "long": "37° 26' 59.13\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-05T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-05T00:00:00.000Z",
+    "lat": -11.61739888888889,
+    "long": -37.44975833333333
   },
   {
     "nome": "Conde",
     "municipio": "Conde",
-    "dataAvist": "2019-10-05T00:00:00.000Z",
     "estado": "BA",
-    "lat": "11° 44' 24.05\" S",
-    "long": "37° 31' 1.861\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-05T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-05T00:00:00.000Z",
+    "lat": -11.740013888888887,
+    "long": -37.51718361111111
   },
   {
     "nome": "Estância",
     "municipio": "Estância",
-    "dataAvist": "2019-10-05T00:00:00.000Z",
     "estado": "SE",
-    "lat": "11° 21' 58.12\" S",
-    "long": "37° 18' 2.053\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-13T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-05T00:00:00.000Z",
+    "lat": -11.366144444444444,
+    "long": -37.30057027777777
   },
   {
     "nome": "Foz do Rio Inhampube",
     "municipio": "Esplanada",
-    "dataAvist": "2019-10-07T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 5' 51.00\" S",
-    "long": "37° 41' 19.00\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-07T00:00:00.000Z",
+    "lat": -12.0975,
+    "long": -37.68861111111111
   },
   {
     "nome": "Baixio",
     "municipio": "Esplanada",
-    "dataAvist": "2019-10-07T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 8' 0.049\" S",
-    "long": "37° 42' 24.99\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-14T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-07T00:00:00.000Z",
+    "lat": -12.133346944444444,
+    "long": -37.70694166666667
   },
   {
     "nome": "Foz do Rio Subauma",
     "municipio": "Esplanada",
-    "dataAvist": "2019-10-07T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 13' 38.08\" S",
-    "long": "37° 45' 48.95\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-16T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-07T00:00:00.000Z",
+    "lat": -12.227244444444445,
+    "long": -37.763597222222224
   },
   {
     "nome": "Praia do Forte",
     "municipio": "Mata de São João",
-    "dataAvist": "2019-10-08T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 34' 9.265\" S",
-    "long": "37° 59' 47.98\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-08T00:00:00.000Z",
+    "lat": -12.569240277777778,
+    "long": -37.99666111111111
   },
   {
     "nome": "Praia do Saco",
     "municipio": "Itaporanga D'Ajuda",
-    "dataAvist": "2019-09-03T00:00:00.000Z",
     "estado": "SE",
-    "lat": "11° 15' 8.890\" S",
-    "long": "37° 13' 55.80\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-05T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-03T00:00:00.000Z",
+    "lat": -11.252469444444445,
+    "long": -37.23216666666667
   },
   {
     "nome": "Imbassaí",
     "municipio": "Mata de São João",
-    "dataAvist": "2019-10-10T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 29' 53.18\" S",
-    "long": "37° 57' 30.99\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-10T00:00:00.000Z",
+    "lat": -12.498105555555554,
+    "long": -37.95860833333334
   },
   {
     "nome": "Massarandupió",
     "municipio": "Entre Rios",
-    "dataAvist": "2019-10-11T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 18' 43.41\" S",
-    "long": "37° 49' 38.74\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-11T00:00:00.000Z",
+    "lat": -12.312058333333335,
+    "long": -37.82742777777778
   },
   {
     "nome": "Praia do Artistas",
     "municipio": "Salvador",
-    "dataAvist": "2019-10-11T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 58' 32.93\" S",
-    "long": "38° 25' 2.849\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-11T00:00:00.000Z",
+    "lat": -12.975813888888888,
+    "long": -38.41745805555556
   },
   {
     "nome": "Praia do Corsário",
     "municipio": "Salvador",
-    "dataAvist": "2019-10-11T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 58' 10.50\" S",
-    "long": "38° 24' 28.84\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-11T00:00:00.000Z",
+    "lat": -12.969583333333333,
+    "long": -38.40801111111111
   },
   {
     "nome": "Mangue",
     "municipio": "Estância",
-    "dataAvist": "2019-10-12T00:00:00.000Z",
     "estado": "SE",
-    "lat": "11° 26' 6.482\" S",
-    "long": "37° 24' 29.62\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-12T00:00:00.000Z",
+    "lat": -11.435133888888888,
+    "long": -37.408227777777775
   },
   {
     "nome": "Ponta da Barra",
     "municipio": "Marechal Deodoro",
-    "dataAvist": "2019-10-13T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 43' 2.477\" S",
-    "long": "35° 47' 45.32\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-13T00:00:00.000Z",
+    "lat": -9.717354722222222,
+    "long": -35.795922222222224
   },
   {
     "nome": "Coruripe",
     "municipio": "Coruripe",
-    "dataAvist": "2019-10-12T00:00:00.000Z",
     "estado": "AL",
-    "lat": "10° 10' 7.999\" S",
-    "long": "36° 9' 54.33\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-12T00:00:00.000Z",
+    "lat": -10.168888611111111,
+    "long": -36.16509166666666
   },
   {
     "nome": "Barreira do Boqueirão",
     "municipio": "Japaratinga",
-    "dataAvist": "2019-10-14T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 7' 30\" S",
-    "long": "35° 16' 31.99\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-14T00:00:00.000Z",
+    "lat": -9.125,
+    "long": -35.275552777777776
   },
   {
     "nome": "Mangue Seco",
     "municipio": "Jandaíra",
-    "dataAvist": "2019-10-14T00:00:00.000Z",
     "estado": "BA",
-    "lat": "11° 40' 37.74\" S",
-    "long": "37° 28' 47.82\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-14T00:00:00.000Z",
+    "lat": -11.67715,
+    "long": -37.47995
   },
   {
     "nome": "Barra do Santo Antonio",
     "municipio": "Barra do Santo Antonio",
-    "dataAvist": "2019-10-13T00:00:00.000Z",
     "estado": "AL",
-    "lat": "9° 24' 50.99\" S",
-    "long": "35° 29' 51.78\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-14T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-13T00:00:00.000Z",
+    "lat": -9.41416388888889,
+    "long": -35.49771666666667
   },
   {
     "nome": "Jardim de Alah",
     "municipio": "Salvador",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 59' 56.04\" S",
-    "long": "38° 26' 46.96\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -12.998899999999999,
+    "long": -38.446377777777776
   },
   {
     "nome": "Praia de Aruanã",
     "municipio": "Aracajú",
-    "dataAvist": "2019-10-15T00:00:00.000Z",
     "estado": "SE",
-    "lat": "11° 6' 29.40\" S",
-    "long": "37° 8' 2.386\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-15T00:00:00.000Z",
+    "lat": -11.108166666666666,
+    "long": -37.13399611111111
   },
   {
     "nome": "Quixaba",
     "municipio": "Aracati",
-    "dataAvist": "2019-10-14T00:00:00.000Z",
     "estado": "CE",
-    "lat": "4° 34' 9.615\" S",
-    "long": "37° 39' 22.40\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-14T00:00:00.000Z",
+    "lat": -4.5693375,
+    "long": -37.65622222222222
   },
   {
     "nome": "Caponga",
     "municipio": "Cascavel",
-    "dataAvist": "2019-10-14T00:00:00.000Z",
     "estado": "CE",
-    "lat": "4° 2' 12.31\" S",
-    "long": "38° 11' 59.62\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-14T00:00:00.000Z",
+    "lat": -4.036752777777778,
+    "long": -38.19989444444444
   },
   {
     "nome": "Coroa do Meio",
     "municipio": "Aracajú",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "SE",
-    "lat": "10° 57' 49.76\" S",
-    "long": "37° 2' 17.11\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -10.963822222222221,
+    "long": -37.038086111111106
   },
   {
     "nome": "Praia Jardim dos Namorados",
     "municipio": "Salvador",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "BA",
-    "lat": "13° 0' 10.99\" S",
-    "long": "38° 27' 0.897\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-16T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -13.003052777777778,
+    "long": -38.45024916666667
   },
   {
     "nome": "Ponta do Mangue",
     "municipio": "Maragogi",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "AL",
-    "lat": "8° 57' 20.20\" S",
-    "long": "35° 10' 16.69\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -8.95561111111111,
+    "long": -35.171302777777775
   },
   {
     "nome": "Praia do Antunes",
     "municipio": "Maragogi",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "AL",
-    "lat": "8° 58' 40.20\" S",
-    "long": "35° 10' 54.69\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -8.977833333333333,
+    "long": -35.18185833333333
   },
   {
     "nome": "Mosqueiro",
     "municipio": "Aracajú",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "SE",
-    "lat": "11° 1' 44.66\" S",
-    "long": "37° 4' 34.25\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -11.029072222222222,
+    "long": -37.07618055555556
   },
   {
     "nome": "Pituba",
     "municipio": "Salvador",
-    "dataAvist": "2019-10-16T00:00:00.000Z",
     "estado": "BA",
-    "lat": "13° 0' 34.94\" S",
-    "long": "38° 27' 47.00\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-16T00:00:00.000Z",
+    "lat": -13.009705555555556,
+    "long": -38.463055555555556
   },
   {
     "nome": "Praia da Paciência",
     "municipio": "Salvador",
-    "dataAvist": "2019-10-17T00:00:00.000Z",
     "estado": "BA",
-    "lat": "13° 0' 39.37\" S",
-    "long": "38° 29' 48.10\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-17T00:00:00.000Z",
+    "lat": -13.01093611111111,
+    "long": -38.496694444444444
   },
   {
     "nome": "Vera Cruz",
     "municipio": "Vera Cruz",
-    "dataAvist": "2019-10-17T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 57' 38.44\" S",
-    "long": "38° 36' 19.34\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-17T00:00:00.000Z",
+    "lat": -12.960677777777777,
+    "long": -38.60537222222222
   },
   {
     "nome": "Barra Grande",
     "municipio": "Maragogi",
-    "dataAvist": "2019-10-17T00:00:00.000Z",
     "estado": "AL",
-    "lat": "8° 59' 28.92\" S",
-    "long": "35° 11' 57.07\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-17T00:00:00.000Z",
+    "lat": -8.991366666666666,
+    "long": -35.19918611111111
   },
   {
     "nome": "Bom Despacho",
     "municipio": "Itaparica",
-    "dataAvist": "2019-10-18T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 54' 20.84\" S",
-    "long": "38° 37' 54.77\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-18T00:00:00.000Z",
+    "lat": -12.905788888888889,
+    "long": -38.631880555555554
   },
   {
     "nome": "Amaralina",
     "municipio": "Salvador",
-    "dataAvist": "2019-10-17T00:00:00.000Z",
     "estado": "BA",
-    "lat": "13° 0' 51.99\" S",
-    "long": "38° 28' 14.99\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-17T00:00:00.000Z",
+    "lat": -13.014441666666666,
+    "long": -38.47083055555556
   },
   {
     "nome": "Mangue",
     "municipio": "Itaporanga D'ajuda",
-    "dataAvist": "2019-10-17T00:00:00.000Z",
     "estado": "SE",
-    "lat": "11° 5' 21.00\" S",
-    "long": "37° 12' 22.51\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-17T00:00:00.000Z",
+    "lat": -11.089166666666667,
+    "long": -37.20625277777778
   },
   {
     "nome": "Praia da Peroba",
     "municipio": "Maragogi",
-    "dataAvist": "2019-10-18T00:00:00.000Z",
     "estado": "AL",
-    "lat": "8° 55' 48.99\" S",
-    "long": "35° 9' 49.48\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-18T00:00:00.000Z",
+    "lat": -8.930275,
+    "long": -35.16374444444444
   },
   {
     "nome": "Ponta da Gameleira_Barra Sirinhaém",
     "municipio": "Sirinhaém",
-    "dataAvist": "2019-10-18T00:00:00.000Z",
     "estado": "BA",
-    "lat": "8° 40' 19.11\" S",
-    "long": "35° 4' 17.50\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-18T00:00:00.000Z",
+    "lat": -8.671975,
+    "long": -35.07152777777778
   },
   {
     "nome": "Barra Grande",
     "municipio": "Maraú",
-    "dataAvist": "2019-10-18T00:00:00.000Z",
     "estado": "BA",
-    "lat": "13° 52' 5.984\" S",
-    "long": "38° 56' 42.01\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-18T00:00:00.000Z",
+    "lat": -13.86832888888889,
+    "long": -38.94500277777777
   },
   {
     "nome": "Ondina",
     "municipio": "Salvador",
-    "dataAvist": "2019-10-19T00:00:00.000Z",
     "estado": "BA",
-    "lat": "13° 0' 39.57\" S",
-    "long": "38° 30' 31.87\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-19T00:00:00.000Z",
+    "lat": -13.010991666666667,
+    "long": -38.508852777777776
   },
   {
     "nome": "Caixa Prego",
     "municipio": "Vera Cruz",
-    "dataAvist": null,
     "estado": "BA",
-    "lat": "13° 7' 42.15\" S",
-    "long": "38° 47' 29.67\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": null,
+    "lat": -13.128375,
+    "long": -38.791574999999995
   },
   {
     "nome": "Barra Grande",
     "municipio": "Itaparica",
-    "dataAvist": "2019-10-19T00:00:00.000Z",
     "estado": "BA",
-    "lat": "13° 2' 31.85\" S",
-    "long": "38° 40' 39.58\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-19T00:00:00.000Z",
+    "lat": -13.042180555555555,
+    "long": -38.67766111111111
   },
   {
     "nome": "Itacaré",
     "municipio": "Itacaré",
-    "dataAvist": "2019-10-19T00:00:00.000Z",
     "estado": "BA",
-    "lat": "14° 22' 57.04\" S",
-    "long": "39° 0' 37.41\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-10-19T00:00:00.000Z",
+    "lat": -14.382511111111112,
+    "long": -39.01039166666666
   },
   {
     "nome": "Pirangi do Norte",
     "municipio": "Parnamirim",
-    "dataAvist": "2019-09-11T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 58' 19.05\" S",
-    "long": "35° 7' 32.98\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-11T00:00:00.000Z",
+    "lat": -5.971958333333333,
+    "long": -35.12582777777778
   },
   {
     "nome": "Barreira do Inferno",
     "municipio": "Parnamirim",
-    "dataAvist": "2019-09-11T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 56' 8.930\" S",
-    "long": "35° 9' 17.33\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-09-24T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-11T00:00:00.000Z",
+    "lat": -5.935813888888889,
+    "long": -35.15481388888889
   },
   {
     "nome": "Via Costeira",
     "municipio": "Natal",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 49' 43.34\" S",
-    "long": "35° 10' 58.24\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -5.828705555555556,
+    "long": -35.18284444444444
   },
   {
     "nome": "Pirambúzios",
     "municipio": "Nísia Floresta",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 59' 27.88\" S",
-    "long": "35° 6' 47.13\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -5.991077777777778,
+    "long": -35.11309166666667
   },
   {
     "nome": "Pirambúzios",
     "municipio": "Nísia Floresta",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 59' 11.65\" S",
-    "long": "35° 6' 59.05\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -5.986569444444444,
+    "long": -35.11640277777778
   },
   {
     "nome": "Foz do Rio Pirangi/Pium",
     "municipio": "Nísia Floresta",
-    "dataAvist": "2019-09-11T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 58' 57.46\" S",
-    "long": "35° 7' 16.97\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-03T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-11T00:00:00.000Z",
+    "lat": -5.982627777777778,
+    "long": -35.121380555555554
   },
   {
     "nome": "Pirangi do Sul",
     "municipio": "Nísia Floresta",
-    "dataAvist": "2019-09-11T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 59' 4.363\" S",
-    "long": "35° 7' 7.995\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-11T00:00:00.000Z",
+    "lat": -5.9845452777777775,
+    "long": -35.1188875
   },
   {
     "nome": "Barra de Tabatinga - Tartarugas",
     "municipio": "Nísia Floresta",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 3' 25.49\" S",
-    "long": "35° 5' 48.44\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -6.057080555555555,
+    "long": -35.09678888888889
   },
   {
     "nome": "Búzios (Rio Doce)",
     "municipio": "Nísia Floresta",
-    "dataAvist": "2019-09-11T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 0' 59.73\" S",
-    "long": "35° 6' 31.40\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-03T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-11T00:00:00.000Z",
+    "lat": -6.016591666666667,
+    "long": -35.10872222222223
   },
   {
     "nome": "Praia do Amor",
     "municipio": "Tibau do Sul",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 13' 50.13\" S",
-    "long": "35° 2' 31.76\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -6.230591666666667,
+    "long": -35.04215555555555
   },
   {
     "nome": "Pirambu",
     "municipio": "Tibau do Sul",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 11' 14.81\" S",
-    "long": "35° 5' 6.240\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -6.1874472222222225,
+    "long": -35.08506666666667
   },
   {
     "nome": "Praia do Giz",
     "municipio": "Tibau do Sul",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 10' 56.30\" S",
-    "long": "35° 5' 22.30\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -6.182305555555556,
+    "long": -35.08952777777778
   },
   {
     "nome": "Sibaúma/Das Minas",
     "municipio": "Tibau do Sul",
-    "dataAvist": "2019-09-11T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 15' 56.49\" S",
-    "long": "35° 2' 17.72\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-09-28T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-11T00:00:00.000Z",
+    "lat": -6.265691666666667,
+    "long": -35.03825555555555
   },
   {
     "nome": "Tibau do Sul",
     "municipio": "Tibau do Sul",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 10' 46.85\" S",
-    "long": "35° 5' 28.83\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -6.179680555555556,
+    "long": -35.09134166666667
   },
   {
     "nome": "Baía Formosa",
     "municipio": "Baía Formosa",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 22' 15.39\" S",
-    "long": "35° 0' 22.18\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -6.370941666666666,
+    "long": -35.00616111111111
   },
   {
     "nome": "Boa Viagem",
     "municipio": "Recife",
-    "dataAvist": "2019-09-03T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 8' 25.13\" S",
-    "long": "34° 54' 10.84\" W",
+    "status": "Oleada - Vestígios/Esparsos",
     "dataRevis": null,
-    "status": "Oleada - Vestígios/Esparsos"
+    "dataAvist": "2019-09-03T00:00:00.000Z",
+    "lat": -8.140313888888889,
+    "long": -34.90301111111111
   },
   {
     "nome": "Pontas das Pedras",
     "municipio": "Goiana",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "PE",
-    "lat": "7° 37' 58.45\" S",
-    "long": "34° 48' 43.59\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-30T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -7.632902777777778,
+    "long": -34.81210833333333
   },
   {
     "nome": "Praia de Jacumã",
     "municipio": "Conde",
-    "dataAvist": "2019-08-30T00:00:00.000Z",
     "estado": "PB",
-    "lat": "7° 16' 40.79\" S",
-    "long": "34° 47' 56.53\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-08-30T00:00:00.000Z",
+    "lat": -7.277997222222222,
+    "long": -34.79903611111111
   },
   {
     "nome": "Barra do Rio Mamanguape",
     "municipio": "Rio Tinto",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "PB",
-    "lat": "6° 46' 39.55\" S",
-    "long": "34° 55' 22.76\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-04T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -6.777652777777778,
+    "long": -34.92298888888889
   },
   {
     "nome": "Ilha dos Poldros",
     "municipio": "Araioses",
-    "dataAvist": "2019-09-16T00:00:00.000Z",
     "estado": "MA",
-    "lat": "2° 43' 22.81\" S",
-    "long": "41° 51' 26.88\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-28T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-16T00:00:00.000Z",
+    "lat": -2.723002777777778,
+    "long": -41.85746666666667
   },
   {
     "nome": "Caraúbas",
     "municipio": "Maxaranguape",
-    "dataAvist": "2019-09-15T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 26' 39.80\" S",
-    "long": "35° 17' 28.41\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-22T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-15T00:00:00.000Z",
+    "lat": -5.444388888888889,
+    "long": -35.291225
   },
   {
     "nome": "Oiteiro",
     "municipio": "Rio Tinto",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "PB",
-    "lat": "6° 49' 54.47\" S",
-    "long": "34° 54' 39.11\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-04T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -6.831797222222222,
+    "long": -34.91086388888889
   },
   {
     "nome": "Lagoa de Praia",
     "municipio": "Rio Tinto",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "PB",
-    "lat": "6° 48' 19.94\" S",
-    "long": "34° 54' 56.67\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-04T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -6.805538888888889,
+    "long": -34.91574166666666
   },
   {
     "nome": "Praia de Campina",
     "municipio": "Rio Tinto",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "PB",
-    "lat": "6° 48' 53.44\" S",
-    "long": "34° 54' 51.03\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-04T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -6.814844444444445,
+    "long": -34.914175
   },
   {
     "nome": "Janga",
     "municipio": "Paulista",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "PE",
-    "lat": "7° 55' 41.43\" S",
-    "long": "34° 49' 14.70\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-18T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -7.928175,
+    "long": -34.820750000000004
   },
   {
     "nome": "Maria Farinha",
     "municipio": "Paulista",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "PE",
-    "lat": "7° 51' 18.86\" S",
-    "long": "34° 50' 4.349\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-18T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -7.855238888888889,
+    "long": -34.834541388888894
   },
   {
     "nome": "Caraúbas",
     "municipio": "Maxaranguape",
-    "dataAvist": "2019-09-15T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 27' 53.73\" S",
-    "long": "35° 16' 56.06\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-22T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-15T00:00:00.000Z",
+    "lat": -5.464925,
+    "long": -35.28223888888889
   },
   {
     "nome": "Praia de Touros",
     "municipio": "Touros",
-    "dataAvist": "2019-09-14T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 11' 22.36\" S",
-    "long": "35° 27' 49.19\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-26T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-14T00:00:00.000Z",
+    "lat": -5.1895444444444445,
+    "long": -35.46366388888889
   },
   {
     "nome": "Praia do Calcanhar",
     "municipio": "Touros",
-    "dataAvist": "2019-09-14T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 9' 38.81\" S",
-    "long": "35° 29' 8.879\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-26T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-14T00:00:00.000Z",
+    "lat": -5.160780555555556,
+    "long": -35.485799722222225
   },
   {
     "nome": "Praia Bela",
     "municipio": "Pitimbu",
-    "dataAvist": "2019-08-30T00:00:00.000Z",
     "estado": "PB",
-    "lat": "7° 23' 55.92\" S",
-    "long": "34° 48' 16.73\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-08-30T00:00:00.000Z",
+    "lat": -7.398866666666667,
+    "long": -34.80464722222222
   },
   {
     "nome": "Ponta Negra",
     "municipio": "Natal",
-    "dataAvist": "2019-09-14T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 52' 42.27\" S",
-    "long": "35° 10' 24.24\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-14T00:00:00.000Z",
+    "lat": -5.878408333333334,
+    "long": -35.1734
   },
   {
     "nome": "Praia do Cabo Branco",
     "municipio": "João Pessoa",
-    "dataAvist": "2019-09-01T00:00:00.000Z",
     "estado": "PB",
-    "lat": "7° 8' 43.34\" S",
-    "long": "34° 48' 33.83\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-01T00:00:00.000Z",
+    "lat": -7.145372222222223,
+    "long": -34.809397222222216
   },
   {
     "nome": "Praia de Tambaú",
     "municipio": "João Pessoa",
-    "dataAvist": "2019-09-01T00:00:00.000Z",
     "estado": "PB",
-    "lat": "7° 6' 45.25\" S",
-    "long": "34° 49' 16.88\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-01T00:00:00.000Z",
+    "lat": -7.1125694444444445,
+    "long": -34.821355555555556
   },
   {
     "nome": "Praia de Gramame",
     "municipio": "Conde",
-    "dataAvist": "2019-08-30T00:00:00.000Z",
     "estado": "PB",
-    "lat": "7° 14' 57.80\" S",
-    "long": "34° 48' 20.65\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-08-30T00:00:00.000Z",
+    "lat": -7.249388888888889,
+    "long": -34.80573611111111
   },
   {
     "nome": "Praia do Amor",
     "municipio": "Conde",
-    "dataAvist": "2019-09-30T00:00:00.000Z",
     "estado": "PB",
-    "lat": "7° 16' 27.18\" S",
-    "long": "34° 48' 4.750\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-30T00:00:00.000Z",
+    "lat": -7.274216666666667,
+    "long": -34.801319444444445
   },
   {
     "nome": "Praia Formosa",
     "municipio": "Cabedelo",
-    "dataAvist": "2019-09-01T00:00:00.000Z",
     "estado": "PB",
-    "lat": "6° 58' 21.09\" S",
-    "long": "34° 49' 44.18\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-01T00:00:00.000Z",
+    "lat": -6.972525,
+    "long": -34.82893888888889
   },
   {
     "nome": "Praia de Camboinha",
     "municipio": "Cabedelo",
-    "dataAvist": "2019-09-01T00:00:00.000Z",
     "estado": "PB",
-    "lat": "7° 0' 10.57\" S",
-    "long": "34° 49' 31.63\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-01T00:00:00.000Z",
+    "lat": -7.0029361111111115,
+    "long": -34.825452777777784
   },
   {
     "nome": "Praia do Poço",
     "municipio": "Cabedelo",
-    "dataAvist": "2019-09-01T00:00:00.000Z",
     "estado": "PB",
-    "lat": "7° 1' 11.43\" S",
-    "long": "34° 49' 45.79\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-01T00:00:00.000Z",
+    "lat": -7.019841666666666,
+    "long": -34.82938611111111
   },
   {
     "nome": "Praia de Intermares",
     "municipio": "Cabedelo",
-    "dataAvist": "2019-09-01T00:00:00.000Z",
     "estado": "PB",
-    "lat": "7° 2' 33.22\" S",
-    "long": "34° 50' 25.96\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-01T00:00:00.000Z",
+    "lat": -7.042561111111111,
+    "long": -34.84054444444445
   },
   {
     "nome": "Pau Amarelo",
     "municipio": "Paulista",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "PE",
-    "lat": "7° 56' 18.08\" S",
-    "long": "34° 49' 24.21\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-18T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -7.938355555555556,
+    "long": -34.82339166666667
   },
   {
     "nome": "Barra do rio Camaratuba",
     "municipio": "Mataraca",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "PB",
-    "lat": "6° 35' 33.45\" S",
-    "long": "34° 57' 58.12\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-04T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -6.592625,
+    "long": -34.966144444444446
   },
   {
     "nome": "Barra do Rio",
     "municipio": "Extremoz",
-    "dataAvist": "2019-09-20T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 40' 45.06\" S",
-    "long": "35° 12' 52.44\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-27T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-20T00:00:00.000Z",
+    "lat": -5.6791833333333335,
+    "long": -35.21456666666667
   },
   {
     "nome": "Cabo de São Roque",
     "municipio": "Maxaranguape",
-    "dataAvist": "2019-09-14T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 29' 5.600\" S",
-    "long": "35° 15' 35.61\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-22T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-14T00:00:00.000Z",
+    "lat": -5.484888888888889,
+    "long": -35.25989166666667
   },
   {
     "nome": "Praia Canto do Atins",
     "municipio": "Barreirinhas",
-    "dataAvist": "2019-09-20T00:00:00.000Z",
     "estado": "MA",
-    "lat": "2° 34' 3.951\" S",
-    "long": "42° 44' 47.95\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-28T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-20T00:00:00.000Z",
+    "lat": -2.5677641666666666,
+    "long": -42.746652777777776
   },
   {
     "nome": "Praia do Barro Vermelho",
     "municipio": "Paulino Neves",
-    "dataAvist": "2019-09-21T00:00:00.000Z",
     "estado": "MA",
-    "lat": "2° 39' 21.69\" S",
-    "long": "42° 36' 28.80\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-28T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-21T00:00:00.000Z",
+    "lat": -2.656025,
+    "long": -42.608000000000004
   },
   {
     "nome": "Ilha dos Poldros",
     "municipio": "Ilha Grande",
-    "dataAvist": "2019-09-20T00:00:00.000Z",
     "estado": "MA",
-    "lat": "2° 44' 49.04\" S",
-    "long": "41° 48' 8.107\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-28T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-20T00:00:00.000Z",
+    "lat": -2.7469555555555556,
+    "long": -41.80225194444444
   },
   {
     "nome": "Praia Canto do Atins",
     "municipio": "Barreirinhas",
-    "dataAvist": "2019-09-22T00:00:00.000Z",
     "estado": "MA",
-    "lat": "2° 32' 35.44\" S",
-    "long": "42° 50' 2.559\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-28T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-22T00:00:00.000Z",
+    "lat": -2.5431777777777778,
+    "long": -42.83404416666667
   },
   {
     "nome": "Praia do Forte",
     "municipio": "Natal",
-    "dataAvist": "2019-09-17T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 45' 45.92\" S",
-    "long": "35° 11' 44.00\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-17T00:00:00.000Z",
+    "lat": -5.762755555555556,
+    "long": -35.19555555555555
   },
   {
     "nome": "Praia de Areia Preta",
     "municipio": "Natal",
-    "dataAvist": "2019-09-17T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 47' 22.46\" S",
-    "long": "35° 11' 16.48\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-17T00:00:00.000Z",
+    "lat": -5.789572222222222,
+    "long": -35.187911111111106
   },
   {
     "nome": "Praia de Taíba",
     "municipio": "São Gonçalo do Amarante",
-    "dataAvist": "2019-09-23T00:00:00.000Z",
     "estado": "CE",
-    "lat": "3° 32' 35.00\" S",
-    "long": "38° 50' 44.00\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-23T00:00:00.000Z",
+    "lat": -3.5430555555555556,
+    "long": -38.845555555555556
   },
   {
     "nome": "Praia de Taíba",
     "municipio": "São Gonçalo do Amarante",
-    "dataAvist": "2019-09-23T00:00:00.000Z",
     "estado": "CE",
-    "lat": "3° 30' 53.00\" S",
-    "long": "38° 52' 51.99\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-23T00:00:00.000Z",
+    "lat": -3.5147222222222223,
+    "long": -38.88110833333334
   },
   {
     "nome": "Praia de Itatinga",
     "municipio": "Alcântara",
-    "dataAvist": "2019-09-22T00:00:00.000Z",
     "estado": "MA",
-    "lat": "2° 24' 46.61\" S",
-    "long": "44° 23' 54.97\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-22T00:00:00.000Z",
+    "lat": -2.4129472222222224,
+    "long": -44.398602777777775
   },
   {
     "nome": "Praia de Ponta dos Mangues",
     "municipio": "Pacatuba",
-    "dataAvist": "2019-09-24T00:00:00.000Z",
     "estado": "SE",
-    "lat": "10° 34' 37.96\" S",
-    "long": "36° 35' 7.170\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-24T00:00:00.000Z",
+    "lat": -10.577211111111112,
+    "long": -36.585325000000005
   },
   {
     "nome": "Praia da Mamuna",
     "municipio": "Alcântara",
-    "dataAvist": "2019-09-25T00:00:00.000Z",
     "estado": "MA",
-    "lat": "2° 15' 37.90\" S",
-    "long": "44° 23' 13.59\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-25T00:00:00.000Z",
+    "lat": -2.260527777777778,
+    "long": -44.38710833333333
   },
   {
     "nome": "Santo Amaro do Maranhão",
     "municipio": "Santo Amaro do Maranhão",
-    "dataAvist": "2019-09-25T00:00:00.000Z",
     "estado": "MA",
-    "lat": "2° 20' 44.58\" S",
-    "long": "43° 20' 54.08\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-25T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-25T00:00:00.000Z",
+    "lat": -2.3457166666666667,
+    "long": -43.34835555555556
   },
   {
     "nome": "Ilha do Livramento",
     "municipio": "Alcântara",
-    "dataAvist": "2019-09-25T00:00:00.000Z",
     "estado": "MA",
-    "lat": "2° 25' 14.28\" S",
-    "long": "44° 25' 15.43\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-25T00:00:00.000Z",
+    "lat": -2.420633333333333,
+    "long": -44.42095277777778
   },
   {
     "nome": "Malhada",
     "municipio": "Jijoca de Jericoacoara",
-    "dataAvist": "2019-09-26T00:00:00.000Z",
     "estado": "CE",
-    "lat": "2° 47' 26.00\" S",
-    "long": "40° 31' 5.000\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-03T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-26T00:00:00.000Z",
+    "lat": -2.7905555555555552,
+    "long": -40.518055555555556
   },
   {
     "nome": "Barra de Sucatinga",
     "municipio": "Beberibe",
-    "dataAvist": "2019-09-08T00:00:00.000Z",
     "estado": "CE",
-    "lat": "4° 15' 10.00\" S",
-    "long": "38° 0' 27.00\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-09T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-08T00:00:00.000Z",
+    "lat": -4.252777777777778,
+    "long": -38.0075
   },
   {
     "nome": "Praia do Arrombado",
     "municipio": "Luís Correia",
-    "dataAvist": "2019-09-27T00:00:00.000Z",
     "estado": "PI",
-    "lat": "2° 54' 44.00\" S",
-    "long": "41° 31' 27.99\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-27T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-27T00:00:00.000Z",
+    "lat": -2.9122222222222223,
+    "long": -41.52444166666667
   },
   {
     "nome": "Av. Litorânea",
     "municipio": "São Luís",
-    "dataAvist": "2019-09-26T00:00:00.000Z",
     "estado": "MA",
-    "lat": "2° 28' 55.49\" S",
-    "long": "44° 14' 41.30\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-28T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-26T00:00:00.000Z",
+    "lat": -2.4820805555555556,
+    "long": -44.24480555555556
   },
   {
     "nome": "São José da Coroa Grande",
     "municipio": "São José da Coroa Grande",
-    "dataAvist": "2019-09-25T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 52' 15.07\" S",
-    "long": "35° 8' 2.586\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-25T00:00:00.000Z",
+    "lat": -8.870852777777777,
+    "long": -35.134051666666664
   },
   {
     "nome": "Praia da Costa",
     "municipio": "Barra dos Coqueiros",
-    "dataAvist": "2019-09-02T00:00:00.000Z",
     "estado": "SE",
-    "lat": "10° 55' 43.00\" S",
-    "long": "37° 0' 48.99\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-02T00:00:00.000Z",
+    "lat": -10.92861111111111,
+    "long": -37.01360833333333
   },
   {
     "nome": "Pontal de Maceió",
     "municipio": "Fortim",
-    "dataAvist": "2019-09-28T00:00:00.000Z",
     "estado": "CE",
-    "lat": "4° 25' 22.26\" S",
-    "long": "37° 46' 8.901\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-10T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-28T00:00:00.000Z",
+    "lat": -4.42285,
+    "long": -37.76913916666667
   },
   {
     "nome": "Piaçabuçu",
     "municipio": "Piaçabuçu",
-    "dataAvist": "2019-10-05T00:00:00.000Z",
     "estado": "AL",
-    "lat": "10° 21' 10.69\" S",
-    "long": "36° 17' 38.43\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-13T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-10-05T00:00:00.000Z",
+    "lat": -10.352969444444444,
+    "long": -36.29400833333333
   },
   {
     "nome": "Ilha Caçacueira - Resex de Cururupu",
     "municipio": "Cururupu",
-    "dataAvist": "2019-10-10T00:00:00.000Z",
     "estado": "MA",
-    "lat": "1° 29' 2.237\" S",
-    "long": "44° 44' 45.79\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-10-10T00:00:00.000Z",
+    "lat": -1.4839547222222222,
+    "long": -44.74605277777778
   },
   {
     "nome": "Praia da Lama",
     "municipio": "Cajueiro da Praia",
-    "dataAvist": "2019-09-28T00:00:00.000Z",
     "estado": "PI",
-    "lat": "2° 56' 22.40\" S",
-    "long": "41° 19' 25.17\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": null,
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-28T00:00:00.000Z",
+    "lat": -2.9395555555555557,
+    "long": -41.323658333333334
   },
   {
     "nome": "Guarajuba",
     "municipio": "Camaçari",
-    "dataAvist": "2019-10-09T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 36' 29.50\" S",
-    "long": "38° 2' 19.94\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-10-09T00:00:00.000Z",
+    "lat": -12.608194444444445,
+    "long": -38.03887222222222
   },
   {
     "nome": "Guarajuba",
     "municipio": "Camaçari",
-    "dataAvist": "2019-10-09T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 38' 57.32\" S",
-    "long": "38° 3' 40.16\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-10-09T00:00:00.000Z",
+    "lat": -12.649255555555555,
+    "long": -38.06115555555555
   },
   {
     "nome": "Praia do Coqueiro",
     "municipio": "Luís Correia",
-    "dataAvist": "2019-09-30T00:00:00.000Z",
     "estado": "PI",
-    "lat": "2° 54' 13.00\" S",
-    "long": "41° 34' 20.00\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": null,
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-30T00:00:00.000Z",
+    "lat": -2.903611111111111,
+    "long": -41.57222222222222
   },
   {
     "nome": "Atalaia",
     "municipio": "Luis Correia",
-    "dataAvist": "2019-09-30T00:00:00.000Z",
     "estado": "PI",
-    "lat": "2° 52' 48.62\" S",
-    "long": "41° 38' 19.62\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": null,
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-30T00:00:00.000Z",
+    "lat": -2.8801722222222224,
+    "long": -41.638783333333336
   },
   {
     "nome": "Pedra do Sal",
     "municipio": "Parnaíba",
-    "dataAvist": "2019-09-30T00:00:00.000Z",
     "estado": "PI",
-    "lat": "2° 48' 25.04\" S",
-    "long": "41° 43' 34.95\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": null,
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-30T00:00:00.000Z",
+    "lat": -2.806955555555555,
+    "long": -41.726375000000004
   },
   {
     "nome": "Praia Peito de Moça",
     "municipio": "Luís Correia",
-    "dataAvist": "2019-09-30T00:00:00.000Z",
     "estado": "PI",
-    "lat": "2° 54' 11.19\" S",
-    "long": "41° 35' 57.99\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": null,
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-30T00:00:00.000Z",
+    "lat": -2.9031083333333334,
+    "long": -41.59944166666667
   },
   {
     "nome": "Arembepe",
     "municipio": "Camaçari",
-    "dataAvist": "2019-10-10T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 45' 44.99\" S",
-    "long": "38° 10' 5.500\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": null,
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-10-10T00:00:00.000Z",
+    "lat": -12.762497222222223,
+    "long": -38.168194444444445
   },
   {
     "nome": "Praia Vilas do Atlântico",
     "municipio": "Lauro de Freitas",
-    "dataAvist": "2019-10-11T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 53' 41.99\" S",
-    "long": "38° 17' 31.99\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-16T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-10-11T00:00:00.000Z",
+    "lat": -12.894997222222221,
+    "long": -38.29221944444444
   },
   {
     "nome": "Foz do Rio São Francisco",
     "municipio": "Piaçabuçu",
-    "dataAvist": "2019-10-09T00:00:00.000Z",
     "estado": "AL",
-    "lat": "10° 29' 21.99\" S",
-    "long": "36° 23' 37.00\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-13T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-10-09T00:00:00.000Z",
+    "lat": -10.489441666666666,
+    "long": -36.39361111111111
   },
   {
     "nome": "Foz do Rio São Francisco",
     "municipio": "Brejo Grande",
-    "dataAvist": "2019-10-09T00:00:00.000Z",
     "estado": "SE",
-    "lat": "10° 29' 39.99\" S",
-    "long": "36° 24' 38.00\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": null,
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-10-09T00:00:00.000Z",
+    "lat": -10.494441666666665,
+    "long": -36.410555555555554
   },
   {
     "nome": "Rio Pojuca",
     "municipio": "Mata de São João",
-    "dataAvist": "2019-10-13T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 35' 47.22\" S",
-    "long": "38° 1' 51.66\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-10-13T00:00:00.000Z",
+    "lat": -12.59645,
+    "long": -38.031016666666666
   },
   {
     "nome": "Rio Vermelho",
     "municipio": "Salvador",
-    "dataAvist": "2019-10-17T00:00:00.000Z",
     "estado": "BA",
-    "lat": "13° 0' 41.06\" S",
-    "long": "38° 29' 40.03\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-10-17T00:00:00.000Z",
+    "lat": -13.011405555555555,
+    "long": -38.49445277777778
   },
   {
     "nome": "Praia do Jauá",
     "municipio": "Camaçari",
-    "dataAvist": "2019-10-18T00:00:00.000Z",
     "estado": "BA",
-    "lat": "12° 49' 36.61\" S",
-    "long": "38° 13' 21.69\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-10-18T00:00:00.000Z",
+    "lat": -12.826836111111112,
+    "long": -38.22269166666667
   },
   {
     "nome": "Cotolelo",
     "municipio": "Parnamirim",
-    "dataAvist": "2019-09-11T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 57' 46.28\" S",
-    "long": "35° 8' 46.82\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-01T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-11T00:00:00.000Z",
+    "lat": -5.962855555555556,
+    "long": -35.14633888888889
   },
   {
     "nome": "Barreta",
     "municipio": "Nísia Floresta",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 7' 25.61\" S",
-    "long": "35° 5' 58.55\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-16T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -6.123780555555555,
+    "long": -35.09959722222222
   },
   {
     "nome": "Camurupim",
     "municipio": "Nísia Floresta",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 4' 39.48\" S",
-    "long": "35° 5' 59.53\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-18T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -6.077633333333333,
+    "long": -35.099869444444444
   },
   {
     "nome": "Pipa",
     "municipio": "Tibau do Sul",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 13' 40.49\" S",
-    "long": "35° 2' 51.33\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-28T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -6.227913888888889,
+    "long": -35.04759166666666
   },
   {
     "nome": "Zumbi/Rio do Fogo",
     "municipio": "Rio do Fogo",
-    "dataAvist": "2019-09-11T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 19' 10.41\" S",
-    "long": "35° 21' 43.53\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-26T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-11T00:00:00.000Z",
+    "lat": -5.319558333333333,
+    "long": -35.36209166666667
   },
   {
     "nome": "Muriú",
     "municipio": "Ceará-Mirim",
-    "dataAvist": "2019-09-12T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 31' 23.40\" S",
-    "long": "35° 15' 5.460\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-27T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-12T00:00:00.000Z",
+    "lat": -5.523166666666667,
+    "long": -35.25151666666667
   },
   {
     "nome": "Barra do Cunhaú",
     "municipio": "Canguaretama",
-    "dataAvist": "2019-09-10T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 18' 7.589\" S",
-    "long": "35° 1' 56.54\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-02T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-10T00:00:00.000Z",
+    "lat": -6.302108055555555,
+    "long": -35.03237222222222
   },
   {
     "nome": "Perobas",
     "municipio": "Touros",
-    "dataAvist": "2019-09-11T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 15' 4.919\" S",
-    "long": "35° 23' 35.14\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-17T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-11T00:00:00.000Z",
+    "lat": -5.251366388888889,
+    "long": -35.39309444444444
   },
   {
     "nome": "Sagi",
     "municipio": "Baía Formosa",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "RN",
-    "lat": "6° 27' 51.32\" S",
-    "long": "34° 58' 22.61\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-19T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -6.464255555555556,
+    "long": -34.972947222222224
   },
   {
     "nome": "Catuama",
     "municipio": "Goiana",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "PE",
-    "lat": "7° 40' 47.60\" S",
-    "long": "34° 49' 55.70\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-30T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -7.679888888888889,
+    "long": -34.83213888888889
   },
   {
     "nome": "Tamandaré",
     "municipio": "Tamandaré",
-    "dataAvist": "2019-09-07T00:00:00.000Z",
     "estado": "PE",
-    "lat": "8° 45' 44.40\" S",
-    "long": "35° 6' 12.95\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-15T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-07T00:00:00.000Z",
+    "lat": -8.762333333333334,
+    "long": -35.10359722222223
   },
   {
     "nome": "Rio Punaú",
     "municipio": "Rio do Fogo",
-    "dataAvist": "2019-09-11T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 21' 0.599\" S",
-    "long": "35° 21' 24.60\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-10-09T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-11T00:00:00.000Z",
+    "lat": -5.350166388888889,
+    "long": -35.356833333333334
   },
   {
     "nome": "Jacumã",
     "municipio": "Ceará-Mirim",
-    "dataAvist": "2019-09-11T00:00:00.000Z",
     "estado": "RN",
-    "lat": "5° 35' 10.09\" S",
-    "long": "35° 13' 38.60\" W",
+    "status": "Óleo - Não Observado",
     "dataRevis": "2019-09-27T00:00:00.000Z",
-    "status": "Óleo - Não Observado"
+    "dataAvist": "2019-09-11T00:00:00.000Z",
+    "lat": -5.586136111111111,
+    "long": -35.22738888888889
   }
 ]

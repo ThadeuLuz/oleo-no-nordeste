@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ThadeuLuz/oleo-nordeste#readme",
   "devDependencies": {
+    "@babel/core": "^7.6.4",
     "csv-parse": "^4.6.3",
     "eslint": "^6.5.1",
     "eslint-config-prettier": "^6.4.0",
@@ -28,12 +29,21 @@
     "eslint-plugin-react": "^7.16.0",
     "eslint-plugin-react-hooks": "^2.1.2",
     "fs-extra": "^8.1.0",
+    "install": "^0.13.0",
+    "npm": "^6.12.0",
     "prettier": "^1.18.2"
   },
   "dependencies": {
+    "@emotion/core": "^10.0.21",
+    "@mdx-js/react": "^1.5.1",
+    "@rebass/forms": "^4.0.6",
+    "@rebass/preset": "^4.0.5",
+    "date-fns": "^2.5.1",
     "parcel-bundler": "^1.12.4",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "rebass": "^4.0.6"
+    "react-helmet": "^5.2.1",
+    "rebass": "^4.0.6",
+    "theme-ui": "^0.2.44"
   }
 }
