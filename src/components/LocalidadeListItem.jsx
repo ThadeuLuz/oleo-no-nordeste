@@ -6,7 +6,7 @@ import { format } from 'date-fns'
 const imageSize = 300
 
 const getUrl = (lat, long) =>
-  `https://maps.googleapis.com/maps/api/staticmap?center=${lat},${long}&zoom=10&size=${imageSize}x${imageSize}&key=AIzaSyAHQRKcgprgPilsyah3QbLW6pjqUw7u3pE`
+  `https://maps.googleapis.com/maps/api/staticmap?center=${lat},${long}&zoom=10&size=${imageSize}x${imageSize}&key=AIzaSyDjvbwqffxVZO36mEvjnTWjz-G3KqHYS9g`
 
 const Beach = ({ nome, municipio, dataAvist, status, estado, lat, long }) => (
   <Card m={1} width={250}>
