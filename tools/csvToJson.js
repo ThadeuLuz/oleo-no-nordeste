@@ -1,9 +1,13 @@
 const parse = require('csv-parse')
 const fs = require('fs-extra')
 const { promisify } = require('util')
-// const { mapsApiKey } = require('../config')
+const fetch = require('node-fetch')
+const _ = require('lodash')
+
+require('dotenv').config()
 
 const asyncParse = promisify(parse)
+// const asyncOutputFile = promisify(fs.outputFile)
 
 // Este CSV foi exportado a partir do XLS disponível no site oficial do Ibama:
 // https://www.ibama.gov.br/notas/2047-manchas-de-oleo-no-litoral-do-nordeste
@@ -41,6 +45,24 @@ const dmsToDd = str => {
 }
 
 /**
+ * Baixa uma imagem de mapa para um determinado local
+ *
+ * A api do maps static é cara $ (2 dólares por 1000 reqs). Então é muito
+ * melhor baixar os arquivos uma única vez e servir a partir do github.
+ * @param {string} filepath Nome do arquivo para salvar
+ * @param {number} lat Latitude
+ * @param {number} long Longitude
+ * @param {number} imageSize Tamanho da imagem (largura e alura)
+ */
+const downloadImage = async (filepath, lat, long, imageSize = 300) => {
+  const url = `https://maps.googleapis.com/maps/api/staticmap?center=${lat},${long}&zoom=10&size=${imageSize}x${imageSize}&key=${process.env.MAPS_API_KEY}`
+
+  const response = await fetch(url)
+  const buffer = await response.buffer()
+  await fs.outputFile(`./src/static/${filepath}`, buffer)
+}
+;``
+/**
  * Converte um data point de uma lista de arrays em um objeto que será salvo no
  * .json
  */
@@ -64,6 +86,7 @@ const cleanDataPoint = ([
   // Colunas com geoloc
   lat: dmsToDd(lat),
   long: dmsToDd(long),
+  imageUrl: `maps/${_.kebabCase(_.deburr(nome))}.jpg`,
 })
 
 const run = async () => {
@@ -76,10 +99,16 @@ const run = async () => {
   // Limpa os dados
   const cleanData = output.map(cleanDataPoint)
 
+  // Criar um array de
+  const promises = cleanData.map(({ imageUrl, lat, long }) =>
+    downloadImage(imageUrl, lat, long),
+  )
+
+  // Baixa todas as imagens em paralelo
+  await Promise.all(promises)
+
   // Escreve o json em disco
   fs.writeJsonSync('./src/data/localidades.json', cleanData, { spaces: 2 })
-
-  console.log(cleanData[0])
 }
 
 run()

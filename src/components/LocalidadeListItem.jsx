@@ -3,14 +3,9 @@ import PropTypes from 'prop-types'
 import { Card, Text, Heading, Image } from 'rebass'
 import { format } from 'date-fns'
 
-const imageSize = 300
-
-const getUrl = (lat, long) =>
-  `https://maps.googleapis.com/maps/api/staticmap?center=${lat},${long}&zoom=10&size=${imageSize}x${imageSize}&key=AIzaSyBSx7epa-ClcldFxiuzpy7D8kD_b12rBKU`
-
-const Beach = ({ nome, municipio, dataAvist, status, estado, lat, long }) => (
+const Beach = ({ nome, imageUrl, municipio, dataAvist, status, estado }) => (
   <Card m={1} width={250}>
-    <Image src={getUrl(lat, long)} />
+    <Image src={imageUrl} />
     <Heading>{nome}</Heading>
     <Text>
       {municipio}-{estado}
@@ -21,6 +16,7 @@ const Beach = ({ nome, municipio, dataAvist, status, estado, lat, long }) => (
 )
 
 Beach.propTypes = {
+  imageUrl: PropTypes.string.isRequired,
   nome: PropTypes.string.isRequired,
   municipio: PropTypes.string.isRequired,
   estado: PropTypes.string.isRequired,

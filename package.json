@@ -10,6 +10,10 @@
     "start": "parcel ./src/index.html --open",
     "build": "rm -rf ./docs && parcel build src/index.html --public-url . --out-dir docs"
   },
+  "staticFiles": {
+    "staticPath": "src/static",
+    "watcherGlob": "**"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ThadeuLuz/oleo-nordeste.git"
@@ -32,6 +36,7 @@
     "fs-extra": "^8.1.0",
     "install": "^0.13.0",
     "npm": "^6.12.0",
+    "parcel-plugin-static-files-copy": "^2.2.1",
     "prettier": "^1.18.2"
   },
   "dependencies": {
@@ -40,6 +45,10 @@
     "@rebass/forms": "^4.0.6",
     "@rebass/preset": "^4.0.5",
     "date-fns": "^2.5.1",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.15",
+    "lodash-es": "^4.17.15",
+    "node-fetch": "^2.6.0",
     "parcel-bundler": "^1.12.4",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
