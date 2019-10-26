@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { Box, Heading, Flex, Link, Text } from 'rebass'
-import { Label, Select } from '@rebass/forms'
+import { Label, Select, Input } from '@rebass/forms'
+import stringSimilarity from 'string-similarity';
 
 import localidadesUnfiltered from '../data/localidades.json'
 import Localidade from './LocalidadeListItem'
@@ -25,14 +26,27 @@ const estados = [...new Set(localidades.map(l => l.estado))]
 
 const LocalidadeList = () => {
   const [estado, setEstado] = useState('Todos')
+  const [busca, setBusca] = useState('')
 
-  const handleChange = event => {
+  const handleStateChange = event => {
     setEstado(event.target.value)
   }
 
-  const locFiltrado = localidades.filter(
-    l => estado === 'Todos' || l.estado === estado,
-  )
+  const handleSearchChange = event => {
+    setBusca(event.target.value)
+  }
+
+  const locFiltrado = localidades.filter(l => {
+    return (
+      (estado === 'Todos' || l.estado === estado) &&
+      (busca
+        ? stringSimilarity.compareTwoStrings(
+            busca.toLocaleLowerCase(),
+            l.nome.toLocaleLowerCase(),
+          ) > 0.4
+        : true)
+    )
+  })
 
   return (
     <>
@@ -47,13 +61,13 @@ const LocalidadeList = () => {
         </Link>
       </Text>
 
-      <Box my={3} mb={5}>
+      <Box my={3} mb={2}>
         <Label htmlFor="estado">Estado</Label>
         <Select
           value={estado}
           id="estado"
           name="estado"
-          onChange={handleChange}
+          onChange={handleStateChange}
         >
           <option>Todos</option>
           {estados.map(e => (
@@ -62,6 +76,16 @@ const LocalidadeList = () => {
             </option>
           ))}
         </Select>
+      </Box>
+
+      <Box my={3} mb={5}>
+        <Label htmlFor="busca">Buscar</Label>
+        <Input
+          value={busca}
+          id="busca"
+          name="busca"
+          onChange={handleSearchChange}
+        />
       </Box>
 
       <Flex flexWrap="wrap" m={-1} justifyContent="center">
