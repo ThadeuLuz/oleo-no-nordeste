@@ -1,22 +1,33 @@
-import React from 'react'
-import { Flex, Box, Link, Heading, Image } from 'rebass'
+import React from "react";
+import { Flex, Box, Link as ExternalLink, Heading, Image } from "rebass";
+import { Link } from "react-router-dom";
 
-import github from '../images/github.svg'
+import github from "../images/github.svg";
 
 const Navbar = () => (
   <Flex px={2} py={1} width={1} alignItems="center" bg="black">
     <Heading p={2} fontWeight="bold" color="white">
-      Óleo no Nordeste
+      <Link to="/" style={{ color: "#fff", textDecoration: "none" }}>
+        Óleo no Nordeste
+      </Link>
     </Heading>
-    <Box mx="auto" sx={{ boxShadow: 'card' }} />
-    <Link
+    <Box mx="auto" sx={{ boxShadow: "card" }} />
+    <Heading p={2} fontWeight="bold" color="white">
+      <Link
+        to="/ajudar"
+        style={{ color: "#fff", textDecoration: "none", fontSize: 16 }}
+      >
+        links para ajudar{" "}
+      </Link>
+    </Heading>
+    <ExternalLink
       color="white"
       href="https://github.com/ThadeuLuz/oleo-nordeste"
       target="_blank"
     >
       <Image src={github} variant="icon" />
-    </Link>
+    </ExternalLink>
   </Flex>
-)
+);
 
-export default Navbar
+export default Navbar;

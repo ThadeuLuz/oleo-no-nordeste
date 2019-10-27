@@ -1,12 +1,23 @@
-import React from 'react'
+import React from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import Layout from '../../components/Layout'
-import LocalidadeList from '../../components/LocalidadeList'
+import Ajudar from "../../components/Ajudar";
+import Layout from "../../components/Layout";
+import LocalidadeList from "../../components/LocalidadeList";
 
 const LocalidadesPage = () => (
-  <Layout title="Localidades">
-    <LocalidadeList />
-  </Layout>
-)
+  <Router>
+    <Layout title="Localidades">
+      <Switch>
+        <Route exact path="/">
+          <LocalidadeList />
+        </Route>
+        <Route path="/ajudar">
+          <Ajudar />
+        </Route>
+      </Switch>
+    </Layout>
+  </Router>
+);
 
-export default LocalidadesPage
+export default LocalidadesPage;
