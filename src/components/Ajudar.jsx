@@ -7,6 +7,16 @@ const Ajudar = () => {
     <>
       <Heading>Links para ajudar</Heading>
       <Text>
+        Sentiu falta de algum link? 
+        <Link
+          href="https://github.com/ThadeuLuz/oleo-no-nordeste/issues/new"
+          target="_blank"
+        >
+          abra uma issue via github
+        </Link>
+      </Text>
+      <br/>
+      <Text>
         <Link
           href="https://www.instagram.com/xoplastico/?hl=pt-br"
           target="_blank"
