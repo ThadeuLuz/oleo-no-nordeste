@@ -4,8 +4,8 @@ import { Card, Text, Heading, Image } from 'rebass'
 import { format } from 'date-fns'
 
 const Beach = ({ nome, imageUrl, municipio, dataAvist, status, estado }) => (
-  <Card m={1} width={250}>
-    <Image src={imageUrl} />
+  <Card m={1} height={355} width={250}>
+    <Image height={235} src={imageUrl} />
     <Heading>{nome}</Heading>
     <Text>
       {municipio}-{estado}

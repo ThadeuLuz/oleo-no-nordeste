@@ -4,7 +4,7 @@ import Layout from '../../components/Layout'
 import LocalidadeList from '../../components/LocalidadeList'
 
 const LocalidadesPage = () => (
-  <Layout title="Localidades">
+  <Layout title='Localidades'>
     <LocalidadeList />
   </Layout>
 )

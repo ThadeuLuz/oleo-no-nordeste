@@ -40,19 +40,19 @@ const LocalidadeList = () => {
       <Text>
         Dados obtidos a partir do{' '}
         <Link
-          href="https://www.ibama.gov.br/notas/2047-manchas-de-oleo-no-litoral-do-nordeste"
-          target="_blank"
+          href='https://www.ibama.gov.br/notas/2047-manchas-de-oleo-no-litoral-do-nordeste'
+          target='_blank'
         >
           Site do Ibama
         </Link>
       </Text>
 
       <Box my={3} mb={5}>
-        <Label htmlFor="estado">Estado</Label>
+        <Label htmlFor='estado'>Estado</Label>
         <Select
           value={estado}
-          id="estado"
-          name="estado"
+          id='estado'
+          name='estado'
           onChange={handleChange}
         >
           <option>Todos</option>
@@ -64,7 +64,7 @@ const LocalidadeList = () => {
         </Select>
       </Box>
 
-      <Flex flexWrap="wrap" m={-1} justifyContent="center">
+      <Flex flexWrap='wrap' m={-1} justifyContent='center'>
         {locFiltrado.map(l => (
           <Localidade key={`${l.lat}_${l.long}`} {...l} />
         ))}
